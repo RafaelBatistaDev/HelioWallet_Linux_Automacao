@@ -1,4 +1,4 @@
-# 🔐 HelioWallet Automation Suite
+# 🔐 HelioWallet Automation Suite - Recovery Phrase
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![PyQt6](https://img.shields.io/badge/PyQt6-GUI-green.svg)
